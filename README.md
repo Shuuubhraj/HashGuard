@@ -35,9 +35,10 @@ Ensure that you have the following installed:
    ```bash
    git clone https://github.com/yourusername/HashGuard.git
 
-   <h2>Author</h2>
+   
 <p>
   <ul>
+    <h2>Author</h2>
     <li>Name: Rajput Shubhraj Singh</li>
     <li>GitHub: <a href="https://github.com/shuuubhraj">https://github.com/shuuubhraj</a></li>
   </ul>
