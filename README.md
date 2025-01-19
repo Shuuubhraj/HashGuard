@@ -1,4 +1,4 @@
-# HashGuard - File Integrity Checker
+# HashGuard - File Integrity Checker 
 
 HashGuard is a **file integrity checker** built with Python and Flask. It allows users to upload files and calculates multiple hash values (MD5, SHA-1, SHA-256) and CRC32 checksum to verify the integrity of the uploaded files. This tool can be used to detect if a file has been tampered with or corrupted.
 
@@ -27,13 +27,12 @@ Ensure that you have the following installed:
   <img alt="Python Version" src="https://img.shields.io/badge/Python-3.x-blue.svg">
 </p>
 - Python 3.x
-- pip (Python's package installer)
 
 ### Setup Instructions
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/HashGuard.git
+   git clone https://github.com/Shuuubhraj/HashGuard.git
 
    
 <p>
